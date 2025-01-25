@@ -1,0 +1,48 @@
+<resources>
+
+    <string name="app_name">LazyMasters</string>
+
+    <string name = "app_header">Masters 2023</string>
+    <string name = "app_description">Masters 2023 is the final tournament in which the players who passed the annual race, participated in many tournaments, and took the top 10 places in the ranking competed.</string>
+
+    <string name="bonya_name">Oksana</string>
+    <string name="bonya_nickname">Bonya</string>
+    <string name="bonya_description">Bonya is the first place in the Masters ranking. She is known for her charisma, perseverance at the gaming table, and incredible insight.</string>
+
+    <string name="samarityanka_name">Yana</string>
+    <string name="samarityanka_nickname">Samarityanka</string>
+    <string name="samarityanka_description">Samaritan is about genuine emotions and fire in the game. She is never shy about using any techniques to defeat her opponents and achieve her goals in the game. Cold-blooded on the outside and very empathetic on the inside.</string>
+
+    <string name="interactive_name">Artem</string>
+    <string name="interactive_nickname">Interactive</string>
+    <string name="interactive_description">Interactive is a player who is able to make lightning-fast decisions and thus always be ahead of the rest. He shows the top level of play for any role, finds and delivers unusual arguments. </string>
+
+    <string name="napoleon_name">Dmitry</string>
+    <string name="napoleon_nickname">Napoleon</string>
+    <string name="napoleon_description">As Napoleon himself says, victories were not important to him for a long time. However, recently, the thirst to achieve results has reappeared, so he often plays and tries to show his best game, which can be seen in many tournaments with his participation.</string>
+
+    <string name="artik_name">Arthur</string>
+    <string name="artik_nickname">Artik</string>
+    <string name="artik_description">Artik is a kind of "boss" of the region, because not everyone was able to defeat him in the game. His level of play is admirable, because he is able to win the game against all odds. An experienced wolf and a repeated winner of almost everything there is.</string>
+
+    <string name="cristo_name">Max</string>
+    <string name="cristo_nickname">Cristo</string>
+    <string name="cristo_description">Max started playing at the age of 16 and during this time has managed to significantly grow and improve his playing skills. Participant and winner of many tournaments, as well as one of the most popular players, who has repeatedly caused a variety of emotions among the audience and other players.</string>
+
+    <string name="zveryuga_name">Artem</string>
+    <string name="zveryuga_nickname">Zveryuga</string>
+    <string name="zveryuga_description">The beast is famous for its ability to look super "charged" and ready to rip in any incomprehensible situation. He has a lot of experience and has won many awards.</string>
+
+    <string name="bumblebee_name">Stanislav</string>
+    <string name="bumblebee_nickname">Bumblebee</string>
+    <string name="bumblebee_description">Has everything been turned upside down at the table? It looks like Bumblebee is back in business. The owner of an explosive and emotional style of play gives no mercy to anyone.</string>
+
+    <string name="castortroy_name">Oleg</string>
+    <string name="castortroy_nickname">Castor Troy</string>
+    <string name="castortroy_description">Castor Troy is renown for his charismatic behavior and bold moves.</string>
+
+    <string name="esaul_name">Max</string>
+    <string name="esaul_nickname">Esaul</string>
+    <string name="esaul_description">Esaul is probably one of the few who can hardly sit at a table for a long time without making any gestures at all. He shows consistently good and high-quality play.</string>
+
+</resources>
